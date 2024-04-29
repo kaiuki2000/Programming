@@ -1,0 +1,12 @@
+Foram gerados 5 números.
+O maior número gerado foi 79 e o menor foi -12.
+Foram gerado(s) 4 números positivos e 1 números negativos.
+Foram gerado(s) 2 números pares e 3 números ímpares.
+
+Números que saíram:
+
+-12: 1 vezes.
+ 45: 1 vezes.
+ 66: 1 vezes.
+ 73: 1 vezes.
+ 79: 1 vezes.
